@@ -12,3 +12,8 @@
     border: solid rgb(223, 215, 215) 2px;
     width: 100px;
 }
+.body{
+    align:centre;
+    margin:20px;
+    padding:20px;
+}
